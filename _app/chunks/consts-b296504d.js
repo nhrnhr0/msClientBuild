@@ -1,0 +1,1 @@
+import{C as s}from"./vendor-4f1b9b8e.js";let o=s([]),e=s(),p=s(),c=s(0),l=s([]),r=s([]);const h="http://127.0.0.1:8000/search",a="http://127.0.0.1:8000/client-api/",b=a+"albums/",i=a+"sizes/",m=a+"colors/",n="http://localhost:8000";export{b as A,m as C,h as S,c as _,o as a,n as b,e as c,r as d,i as e,p,l as s};
